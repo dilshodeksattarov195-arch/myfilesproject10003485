@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configurocess",
+        "uuid": 6273000,
+        "checksum": "pt7yra"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
